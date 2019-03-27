@@ -7,7 +7,6 @@ namespace SnakeGame
 {
     class Program
     {
-        public int x = 0;
         public static void Main(string[] args)
         {
             Console.CursorVisible = false;
