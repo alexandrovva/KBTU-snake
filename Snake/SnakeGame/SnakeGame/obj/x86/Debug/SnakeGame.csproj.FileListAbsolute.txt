@@ -1,0 +1,6 @@
+/Users/definix/Documents/PP2/Snake/SnakeGame/SnakeGame/bin/Debug/SnakeGame.exe
+/Users/definix/Documents/PP2/Snake/SnakeGame/SnakeGame/bin/Debug/SnakeGame.pdb
+/Users/definix/Documents/PP2/Snake/SnakeGame/SnakeGame/obj/x86/Debug/SnakeGame.csprojAssemblyReference.cache
+/Users/definix/Documents/PP2/Snake/SnakeGame/SnakeGame/obj/x86/Debug/SnakeGame.csproj.CoreCompileInputs.cache
+/Users/definix/Documents/PP2/Snake/SnakeGame/SnakeGame/obj/x86/Debug/SnakeGame.exe
+/Users/definix/Documents/PP2/Snake/SnakeGame/SnakeGame/obj/x86/Debug/SnakeGame.pdb
